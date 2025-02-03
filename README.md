@@ -54,7 +54,7 @@ git clone https://github.com/RajCloudify/sample_nodejs_EC2.git
 Get inside the directory and Install Packages
 
 ```bash
-cd nodejs-on-ec2
+cd sample_nodejs_EC2
 npm install
 ```
 
